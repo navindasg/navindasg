@@ -44,12 +44,12 @@ I'm a full-stack AI engineer building production AI systems — RAG pipelines, a
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
-    <img width="49%" src="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/tokyonight/3-stats.svg?v=2"/>
+    <img width="49%" src="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/github/3-stats.svg?v=2" alt="GitHub stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
-    <img width="49%" src="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repo"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=2"/>
+    <img width="49%" src="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/github/1-repos-per-language.svg?v=2" alt="Top languages by repo"/>
   </picture>
   <br/>
   <picture>
@@ -62,9 +62,9 @@ I'm a full-stack AI engineer building production AI systems — RAG pipelines, a
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/output/github-snake.svg"/>
-    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/navindasg/navindasg/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/output/github-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/output/github-snake.svg?v=2"/>
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/navindasg/navindasg/output/github-snake.svg?v=2"/>
   </picture>
 </div>
 
