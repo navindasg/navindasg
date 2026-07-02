@@ -20,6 +20,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # With a PAT the calendar includes private contributions; the default
+          # token sees only the public graph.
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark

@@ -21,7 +21,10 @@ jobs:
       - name: Generate summary cards into the repo
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PERSONAL_ACCESS_TOKEN (classic PAT, repo + read:user scopes) unlocks
+          # private commits/issues/contributions; falls back to the default
+          # public-only token until that secret is configured.
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
