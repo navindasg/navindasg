@@ -40,14 +40,21 @@ I'm a full-stack AI engineer building production AI systems — RAG pipelines, a
 
 ## 📊 GitHub stats
 
+<!-- Cards are generated daily into this repo by .github/workflows/cards.yml (no external service dependency). -->
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=navindasg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=navindasg&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+    <img width="49%" src="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=navindasg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navindasg&layout=compact&hide_border=true&langs_count=8&hide=html,css" alt="Top languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+    <img width="49%" src="https://raw.githubusercontent.com/navindasg/navindasg/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repo"/>
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=navindasg&theme=tokyonight&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=navindasg&hide_border=true" alt="Contribution streak"/>
   </picture>
 </div>
 
